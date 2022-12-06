@@ -1,0 +1,33 @@
+.category{
+    text-decoration: none;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.category:hover{
+    color: rgb(179, 55, 50);
+    transition: .8s;
+}
+
+.categoryt{
+    text-decoration: none;
+    color: white;
+    font-size: 35px;
+    font-weight: bolder;
+}
+
+.categoryt:hover{
+    color: rgb(179, 55, 50);
+    transition: .5s;
+}
+
+.calculation{
+    color: white;
+    margin: 5px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.2em;
+    font-weight: bolder;
+
+}

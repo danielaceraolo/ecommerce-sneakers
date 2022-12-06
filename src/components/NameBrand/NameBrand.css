@@ -1,0 +1,14 @@
+.titleBrand {
+    font-family: 'Lalezar', cursive;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin: 25px;
+    font-size: 7em;
+    letter-spacing: 5px;
+}
+
+.titleBrand:hover {
+    color: rgb(179, 55, 50);
+    transition: .8s;
+}
