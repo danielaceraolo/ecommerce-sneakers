@@ -7,7 +7,7 @@ Ceraolo, Daniela.
 
 ## 🔗 Netlify
 
-![ECOMMERCE-SNEAKERS](https://sneakers-ecommerce-c.netlify.app/)
+# https://sneakers-ecommerce-c.netlify.app/
 
 ## 
 
